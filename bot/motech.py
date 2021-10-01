@@ -1,5 +1,5 @@
 # Update
-MT_BOT_UPDATES = "t.me/Mo_tech_YT"
+NO_BOT_UPDATES = "t.me/im_godgroot"
 # Your Main Channel
-BOT_UPDATES = "t.me/Mo_Tech_YT"
+BOT_UPDATES = "t.me/im_godgroot"
 
